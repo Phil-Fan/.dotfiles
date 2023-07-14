@@ -1,0 +1,12 @@
+[user]
+	name = philfan
+	email = 1372597718@qq.com
+
+[credential]
+	helper = store
+[safe]
+	directory = /home/philfan/Projects/MathSoftware-2023/
+	directory = /home/philfan/Projects/MathSoftware-2023
+[commit]
+	template = ~/.gitmessage
+
